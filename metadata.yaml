@@ -1,11 +1,16 @@
 _repo: Abraham-Lincoln-in-Our-Own-County_54833
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 54833-h/images/cover.jpg
 creator:
   author:
     agent_name: Beardsley, Henry M.
     gutenberg_agent_id: '48067'
     url: http://www.gutenberg.org/2009/agents/48067
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54833#Abraham-Lincoln-in-Our-Own-County
 gutenberg_issued: '2017-06-02'
 gutenberg_type: Text
 identifiers:
